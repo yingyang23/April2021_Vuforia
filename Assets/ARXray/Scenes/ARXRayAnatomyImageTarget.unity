@@ -1060,7 +1060,7 @@ Mesh:
     vertexCount: 4
     localAABB:
       m_Center: {x: 0, y: 0, z: 0}
-      m_Extent: {x: 0.05, y: 0, z: 0.0553315}
+      m_Extent: {x: 0.075, y: 0, z: 0.05625}
   m_Shapes:
     vertices: []
     shapes: []
@@ -1342,7 +1342,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 'IMG_5336Material
+  m_Name: '1024px-Postcards_and_magnifying_glassMaterial
 
     20656'
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
@@ -1357,7 +1357,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 28c0014b78fd419f928d717e38d45aed, type: 3}
+        m_Texture: {fileID: 2800000, guid: 013aea87cd3141a899197af8d919468c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -1980,7 +1980,7 @@ Mesh:
       format: 0
       dimension: 0
     m_DataSize: 128
-    _typelessdata: 0ad723bd00000000327e5abd000000000000803f0000000000000000000000000ad723bd00000000327e5a3d000000000000803f00000000000000000000803f0ad7233d00000000327e5abd000000000000803f000000000000803f000000000ad7233d00000000327e5a3d000000000000803f000000000000803f0000803f
+    _typelessdata: 9a9999bd00000000666666bd000000000000803f0000000000000000000000009a9999bd000000006666663d000000000000803f00000000000000000000803f9a99993d00000000666666bd000000000000803f000000000000803f000000009a99993d000000006666663d000000000000803f000000000000803f0000803f
   m_CompressedMesh:
     m_Vertices:
       m_NumItems: 0
@@ -2323,13 +2323,13 @@ MonoBehaviour:
   m_Script: {fileID: -1631628248, guid: 1e108ae5f2133934f948edded555f03e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mTrackableName: IMG_5336
+  mTrackableName: 1024px-Postcards_and_magnifying_glass
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/XRayProject.xml
-  mAspectRatio: 1.3335751
+  mAspectRatio: 0.74999994
   mImageTargetType: 0
-  mWidth: 0.08
-  mHeight: 0.10668601
+  mWidth: 0.15
+  mHeight: 0.1125
   mRuntimeTexture: {fileID: 0}
 --- !u!4 &1439786003
 Transform:
@@ -2746,7 +2746,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: c85e561b9a3f43d984c8924ec083b29c, type: 3}
+        m_Texture: {fileID: 2800000, guid: 34a8359a47f64eedb9b782db66ed64e3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
