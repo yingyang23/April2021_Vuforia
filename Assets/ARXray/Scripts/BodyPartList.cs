@@ -14,16 +14,19 @@ public class BodyPartList : MonoBehaviour
 
     public void OnBrainFound()
     {
-        brainIcon.enabled = false;
+        //brainIcon.enabled = false;
+        brainIcon.color = new Color(1, 1, 1, 0.3f);
     }
 
     public void OnRightLungFound()
     {
-        rightLungIcon.enabled = false;
+        //rightLungIcon.enabled = false;
+        rightLungIcon.color = new Color(1, 1, 1, 0.3f);
     }
 
     public void OnHeartFound()
     {
-        heartIcon.enabled = false;
+        //heartIcon.enabled = false;
+        heartIcon.color = new Color(1, 1, 1, 0.3f);
     }
 }
